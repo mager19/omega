@@ -1,0 +1,15 @@
+{
+  "name": "omega",
+  "version": "0.1.0",
+  "description": "pagina web de Omega",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mager19",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.14.0",
+    "gulp": "^3.9.1"
+  }
+}
