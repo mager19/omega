@@ -112,6 +112,9 @@ header h2{
 	font-weight: 800;
 	padding-top: 1em;
 }
+header h2 span{
+	color: #6E7783;
+}
 
 header p{
 	color:#77AAAD;
@@ -131,5 +134,91 @@ header img{
 
 .natural{
 	background-color: #f8f8f8;
-	padding: 2em 0;
+	padding: 1em 0;
+}
+
+.natural h3{
+	color:#4d4d4d;
+	font-family: 'Reem Kufi', sans-serif;
+	font-weight: 800;
+	text-align: center;
+}
+
+.natural__item{
+	text-align: center;
+}
+
+.natural__item h4{
+	font-size: 1.5em;
+	font-family: 'Raleway';
+	text-align: center;
+}
+
+.natural__item p{
+	color:#77AAAD;
+	font-size: 3em;
+	font-weight: 700;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+/*razones*/
+.razones{
+	background-color: #232323;
+}
+
+.razones h3{
+	color:#f9f9f9;
+	font-family: 'Reem Kufi', sans-serif;
+	font-size: 4em;
+	font-weight: 800;
+}
+
+.razones img{
+	margin-top: 5em;
+}
+
+.razones ul li{
+	color:#f9f9f9;
+	font-size: 1.1em;
+	list-style-type: square;
+}
+
+/*footer*/
+footer h3{
+	color:#4d4d4d;
+	font-family: 'Reem Kufi', sans-serif;
+	font-size: 4em;
+	font-weight: 800;
+}
+
+footer ul{
+	margin-left:-2em;
+}
+
+footer ul li{
+	display: inline-block;
+	list-style: none;
+	margin-right: 1em; 
+}
+
+footer form input, footer form textarea{
+	border: 1px solid #b1b1b1;
+	border-radius: 5px;
+	margin-top: 1.5em;
+	padding: 0.3em 1em;
+	width: 70%;	
+}
+
+
+footer form input[type=submit]{
+	background-color: #77AAAD;
+	color:#f9f9f9;
+	font-weight: bold;
+}
+
+.barra{
+	background-color: #f6f6f6;
+	padding: 0.5em 0;
+	text-align: center;
 }
