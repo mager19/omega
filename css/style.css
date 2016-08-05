@@ -100,11 +100,36 @@ img{
 }
 
 
-header p{
-	font-family: 'Raleway', sans-serif;
+/*Header*/
+header{
+	background-image: url("../img/back.png");
 }
 
+header h2{
+	color:#4d4d4d;
+	font-size: 5em;
+	font-family: "Raleway";
+	font-weight: 800;
+	padding-top: 1em;
+}
+
+header p{
+	color:#77AAAD;
+	font-weight: 600;
+	font-family: 'Raleway', sans-serif;
+	margin-top: 1em;
+	width: 80%;
+}
+
+header img{
+	padding-bottom: 4em;
+	margin-left: 10%;
+	width: 70%;
+}
+
+/*natural*/
 
 .natural{
 	background-color: #f8f8f8;
+	padding: 2em 0;
 }
