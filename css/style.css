@@ -18,22 +18,20 @@
 /* Font Awesome */
 @import url("../css/font-awesome.min.css");
 
-
-
 /* ESTILOS GENERALES*/
 
 
 body{
-	
+
 	line-height:30px;
 	color:#4d4d4d;
 	background: #fff;
 	font-family: Lato;
 	font-size: 16px;
 	font-weight: 300;
-	
+
 }
-a{	
+a{
 	color: #232323;
 	letter-spacing: 1px;
 	font-weight: 400;
@@ -41,7 +39,7 @@ a{
 }
 
 p{
-	
+
 	color:#33454E;
 	line-height: 27px;
 	font-weight:300;
@@ -61,11 +59,11 @@ h1 {
 
 
 h2 {
-	
+
 	color:#b91e1f;
 	font-size: 1.8em;
 	font-weight: 200px;
-	
+
 
 }
 
@@ -87,7 +85,7 @@ img{
 }
 .clearfix{
 	width:1px;
-	height:1px;	
+	height:1px;
 	display:block;
 	clear:both;
 	content:" , ";
@@ -199,7 +197,7 @@ footer ul{
 footer ul li{
 	display: inline-block;
 	list-style: none;
-	margin-right: 1em; 
+	margin-right: 1em;
 }
 
 footer form input, footer form textarea{
@@ -207,7 +205,7 @@ footer form input, footer form textarea{
 	border-radius: 5px;
 	margin-top: 1.5em;
 	padding: 0.3em 1em;
-	width: 70%;	
+	width: 70%;
 }
 
 
